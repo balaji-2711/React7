@@ -7,18 +7,18 @@ export const userReducer = createSlice({
   initialState: {
     userData: [
       {
-        studentName: "Vishnu",
-        email: "vishnu@gmail.com",
-        mobile: "9080376729",
-        batch: "b40",
-        mentorName: "Nagaraj",
+        studentName: "Surya",
+        email: "surya@gmail.com",
+        mobile: "9875632547",
+        batch: "b100",
+        mentorName: "Vijay",
       },
       {
-        studentName: "Balaa",
-        email: "balu@gmail.com",
-        mobile: "9080376727",
-        batch: "b38",
-        mentorName: "Balaji",
+        studentName: "Arya",
+        email: "arya@gmail.com",
+        mobile: "7529463815",
+        batch: "b200",
+        mentorName: "Ajith",
       },
     ],
   },
